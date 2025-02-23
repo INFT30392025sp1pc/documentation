@@ -19,8 +19,8 @@
 
   
   ## Stakeholder Meeting 2 - 2025-02-04 - Sisi Liu
-  [Link to recording]([https://uo.unisa.edu.au/mod/assign/view.php?id=879589](https://mymailunisaedu-my.sharepoint.com/:v:/r/personal/donly03f_mymail_unisa_edu_au/Documents/Recordings/Capstone%20Project%20Stakeholder%20Meeting%202-20250204_173209-Meeting%20Recording.mp4?csf=1&web=1&e=3kdQio&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))</br>
-  [Link to transcript - to be added]()</br>
+  [Link to recording](https://mymailunisaedu-my.sharepoint.com/:v:/r/personal/donly03f_mymail_unisa_edu_au/Documents/Recordings/Capstone%20Project%20Stakeholder%20Meeting%202-20250204_173209-Meeting%20Recording.mpcsf=1&web=1&e=3kdQio&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)</br>
+  [Link to transcript](https://github.com/INFT30392025sp1pc/documentation/blob/main/transcript-stakeholder-meeting2.md)</br>
 
   ### Link to resources shared following meeting
   
