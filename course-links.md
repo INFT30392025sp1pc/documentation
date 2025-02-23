@@ -1,5 +1,5 @@
-[!NOTE]
-This page contains links to course information. 
+> [!NOTE]
+> This page contains links to course information. 
 
   # Assessments
   
