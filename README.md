@@ -25,7 +25,11 @@
 
 ## Shared Resources
   - [Miro Boards](https://github.com/INFT30392025sp1pc/documentation/blob/main/shared-resources-miro.md)
+  - [Visual Studio Code for editing](https://code.visualstudio.com/)
+  - [Hungarian Notation](https://en.wikipedia.org/wiki/Hungarian_notation)
+  - [PHP Sessions - W3Schools](https://www.w3schools.com/php/php_sessions.asp)
   - [Plant UML](https://www.plantuml.com/)
+  - [XAMPP - To run PHP and MySQL together](https://www.apachefriends.org/)
   - [Article - Backlog refinement: 3 tips to keep your sprint organized](https://asana.com/resources/backlog-refinement)
   - [Jira and Confluence Quick Start Guide](https://github.com/user-attachments/files/18935332/KAN-Jira.and.Confluence.quick.start.guide-240225-021854.pdf)
 
