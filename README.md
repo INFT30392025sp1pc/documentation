@@ -3,6 +3,15 @@
 > [!TIP]
 > This repo is used to organise links shared among and between team members.
 
+## Upcoming Assessments
+- [Assessment 1c due Midday Friday 14 March](https://uo.unisa.edu.au/mod/assign/view.php?id=879596)
+
+## Completed Assessments
+- [Assessment 1a](https://mymailunisaedu.sharepoint.com/:w:/r/sites/USO_CapstoneProjects2025SP1SP3-GroupC/_layouts/15/Doc.aspx?sourcedoc=%7BABF0DA71-E81D-496E-A9CB-B25A88A60EEB%7D&amp%3Bfile=SRS%20Template%202017SP5.docx&amp%3Baction=default&amp%3Bmobileredirect=true&amp%3BDefaultItemOpen=1&amp%3Bweb=1&wdOrigin=TEAMS-MAGLEV.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1740363807206&web=1)
+- [Assessment 1b Scripts](https://mymailunisaedu.sharepoint.com/:w:/s/USO_CapstoneProjects2025SP1SP3-GroupC/EcakSuwyzilFpsWn_Pld27oBDbAf2cqEXIL46ueJFYb-0w?wdOrigin=TEAMS-MAGLEV.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1740363850220&web=1)
+- [Assessment 1b Video](https://mymailunisaedu.sharepoint.com/sites/USO_CapstoneProjects2025SP1SP3-GroupC/_layouts/15/stream.aspx?id=%2Fsites%2FUSO%5FCapstoneProjects2025SP1SP3%2DGroupC%2FShared%20Documents%2FGroup%20C%2FMid%20Project%20Review%5FVideos%2FINFT3039%5F2025SP1%5FGroupC%5FProject1B%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E90ce57ab%2Db4ac%2D40fb%2Dbda8%2D8f45358a8383&ga=1)
+  
+
 ## Key Project Documentation
   - [Risk Management Plan](https://mymailunisaedu.sharepoint.com/:w:/s/USO_CapstoneProjects2025SP1SP3-GroupC/EdxVaIY_AdVCjItDOHuwP20BQzUlEJ2t2ECYwmCbdnT-_g?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1740362951852&web=1)
   - [Jira Change Request Form](https://2025sp1pc.atlassian.net/jira/software/projects/KAN/form/1)
