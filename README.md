@@ -43,6 +43,4 @@
   - [Guidelines for Personnel Security - ISM-1404 Disable user access after 45 days of inactivity](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism/cyber-security-guidelines/guidelines-personnel-security)
 
 ## Referenced Materials
-  - [Bibliography]
-  - [Valacich, J. S., & George, J. F. (2016). Modern Systems Analysis and Design, Global Edition (Eighth Edition.). Pearson Education UK.](https://ugedugh-my.sharepoint.com/:b:/g/personal/poffei_st_ug_edu_gh/Eehpvfl6SUtPiEWWJcj5Ma0BA59qmvEyYGvgXA2GfjD_iQ?e=wlD5OU)
-  - 
+  - [Bibliography](https://github.com/INFT30392025sp1pc/documentation/blob/main/bibliography.md)
