@@ -20,8 +20,12 @@
 - [AWS Server](https://ap-southeast-1.signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcke&code_challenge=yIpJ6mxlulqSNxO3zBpYAHi-UTgJ30BjNz4pf9RMoqM&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fap-southeast-1.console.aws.amazon.com%2Fcke%2Fauth%3Fchallenge%3DpIRUUWwNhlyLv9UR0CaBqCgmZ8bbwKmLUi4GHbT3fxI%26hashArgs%3D%2523%26isauthcode%3Dtrue%26oauthStart%3D1740276218457%26redirectUrl%3Dhttps%253A%252F%252Frepost.aws%252Fapi%252Fv1%252Fidentity%252Faws%252Fcallback%253Fstate%253DeyJub25jZSI6IlBTenJuajJoUVN5ck1BZ3ZjaEpEZncifQ%26region%3Dap-southeast-1%26state%3DhashArgsFromTB_ap-southeast-1_8a95f0fd29d55df6)
 - [MySQL Download](https://www.mysql.com/downloads/)
 
-## Assessment Information
+## Assessment Information From Teams
 - [Assessments](https://github.com/INFT30392025sp1pc/documentation/blob/main/course-links.md)
+- [Miro wireframe v2](https://miro.com/app/board/uXjVIeURbgo=/?share_link_id=863174941633) 
+- [Jira Wireframe Screen allocation for Jira backlog](https://mymailunisaedu-my.sharepoint.com/:x:/g/personal/davsy036_mymail_unisa_edu_au/EZquCTc0FEpCogn9P6uXLfEBcjnSykAC50rW3ps_cCcNaQ?wdOrigin=TEAMS-MAGLEV.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1741492167683&web=1)
+- [Jira issue from Jira Wireframe Screen allocation - example for one of the login screen contexts](https://mymailunisaedu-my.sharepoint.com/:w:/g/personal/davsy036_mymail_unisa_edu_au/EXX9g2pBqu1Lvj2S-O3yyLoBmSY_77lxR56aJ4IJEBmGQA?wdOrigin=TEAMS-MAGLEV.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1741492250338&web=1)
+- [Requirement and Risk Management Spreadsheet](https://mymailunisaedu-my.sharepoint.com/:x:/g/personal/davsy036_mymail_unisa_edu_au/EZquCTc0FEpCogn9P6uXLfEBcjnSykAC50rW3ps_cCcNaQ?wdOrigin=TEAMS-MAGLEV.undefined_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1741492167683&web=1) 
 
 ## Shared Resources
   - [Miro Boards](https://github.com/INFT30392025sp1pc/documentation/blob/main/shared-resources-miro.md)
