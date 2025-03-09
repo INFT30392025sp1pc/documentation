@@ -42,6 +42,7 @@
   - [Discord - Bachelor of IT and Data Analytics Students Channel](https://discord.com/channels/600615036117057549/852056267304337409)
   - [Guidelines for Personnel Security - ISM-1404 Disable user access after 45 days of inactivity](https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism/cyber-security-guidelines/guidelines-personnel-security)
 
-
-
-
+## Referenced Materials
+  - [Bibliography]
+  - [Valacich, J. S., & George, J. F. (2016). Modern Systems Analysis and Design, Global Edition (Eighth Edition.). Pearson Education UK.](https://ugedugh-my.sharepoint.com/:b:/g/personal/poffei_st_ug_edu_gh/Eehpvfl6SUtPiEWWJcj5Ma0BA59qmvEyYGvgXA2GfjD_iQ?e=wlD5OU)
+  - 
