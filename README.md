@@ -15,6 +15,13 @@
   - [Risk Management Plan](https://mymailunisaedu.sharepoint.com/:w:/s/USO_CapstoneProjects2025SP1SP3-GroupC/EdxVaIY_AdVCjItDOHuwP20BQzUlEJ2t2ECYwmCbdnT-_g?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1740362951852&web=1)
   - [Jira Change Request Form](https://2025sp1pc.atlassian.net/jira/software/projects/KAN/form/1)
   - [Project Change Log](https://mymailunisaedu.sharepoint.com/:w:/s/USO_CapstoneProjects2025SP1SP3-GroupC/Ecmfarnyx8hPsYk8QhLf_90BJlgOwLpUefjlgmEz2mfk-A?e=uDbIj8)
+  - [Atlassian - Agile Project Management - Managing User Stories]()https://www.atlassian.com/agile/project-management/user-stories)
+  - [Atlassian - Agile Project Management - Definition of Ready (DoR) Explained & Key Components](https://www.atlassian.com/agile/project-management/definition-of-ready)
+  - [Atlassian - Agile Project Management - What is Definition of Done?](https://www.atlassian.com/agile/project-management/definition-of-done)
+  - [Atlassian - Jira Issues Overview - What is an issue?](https://www.atlassian.com/software/jira/guides/issues/overview#what-is-an-issue)
+  - [Atlassian - Agile Project Management - Project dependencies: Types & ways to manage them effectively](https://www.atlassian.com/agile/project-management/project-management-dependencies)
+  - [Atlassian - Scrum - Product Backlog - What is it & How to create one](https://www.atlassian.com/agile/scrum/backlogs)
+  - [Reddit - r/Product Management - ISO: Examples of beautiful Jira tickets](https://www.reddit.com/r/ProductManagement/comments/lnm065/iso_examples_of_beautiful_jira_tickets/?rdt=34546)
 
 ## Software Solution
 - [AWS Server](https://ap-southeast-1.signin.aws.amazon.com/oauth?client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcke&code_challenge=yIpJ6mxlulqSNxO3zBpYAHi-UTgJ30BjNz4pf9RMoqM&code_challenge_method=SHA-256&response_type=code&redirect_uri=https%3A%2F%2Fap-southeast-1.console.aws.amazon.com%2Fcke%2Fauth%3Fchallenge%3DpIRUUWwNhlyLv9UR0CaBqCgmZ8bbwKmLUi4GHbT3fxI%26hashArgs%3D%2523%26isauthcode%3Dtrue%26oauthStart%3D1740276218457%26redirectUrl%3Dhttps%253A%252F%252Frepost.aws%252Fapi%252Fv1%252Fidentity%252Faws%252Fcallback%253Fstate%253DeyJub25jZSI6IlBTenJuajJoUVN5ck1BZ3ZjaEpEZncifQ%26region%3Dap-southeast-1%26state%3DhashArgsFromTB_ap-southeast-1_8a95f0fd29d55df6)
