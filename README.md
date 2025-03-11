@@ -15,7 +15,7 @@
   - [Risk Management Plan](https://mymailunisaedu.sharepoint.com/:w:/s/USO_CapstoneProjects2025SP1SP3-GroupC/EdxVaIY_AdVCjItDOHuwP20BQzUlEJ2t2ECYwmCbdnT-_g?wdOrigin=TEAMS-MAGLEV.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1740362951852&web=1)
   - [Jira Change Request Form](https://2025sp1pc.atlassian.net/jira/software/projects/KAN/form/1)
   - [Project Change Log](https://mymailunisaedu.sharepoint.com/:w:/s/USO_CapstoneProjects2025SP1SP3-GroupC/Ecmfarnyx8hPsYk8QhLf_90BJlgOwLpUefjlgmEz2mfk-A?e=uDbIj8)
-  - [Atlassian - Agile Project Management - Managing User Stories]()https://www.atlassian.com/agile/project-management/user-stories)
+  - [Atlassian - Agile Project Management - Managing User Stories](https://www.atlassian.com/agile/project-management/user-stories)
   - [Atlassian - Agile Project Management - Definition of Ready (DoR) Explained & Key Components](https://www.atlassian.com/agile/project-management/definition-of-ready)
   - [Atlassian - Agile Project Management - What is Definition of Done?](https://www.atlassian.com/agile/project-management/definition-of-done)
   - [Atlassian - Jira Issues Overview - What is an issue?](https://www.atlassian.com/software/jira/guides/issues/overview#what-is-an-issue)
